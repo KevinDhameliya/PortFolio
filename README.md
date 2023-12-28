@@ -1,3 +1,5 @@
 # PortFolio
 This is all about me.
-![Kohli](https://github.com/KevinDhameliya/PortFolio/assets/126460230/7ce71aa1-1a8c-4ac8-8c24-64c98bf60867)
+
+![Profile](https://github.com/KevinDhameliya/PortFolio/assets/126460230/9beca055-8281-4e4c-96bd-a8b4f5ab4656)
+
